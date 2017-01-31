@@ -1,2 +1,2 @@
 # theme-belly
-Google Chrome Theme
+A Google Chrome Theme Featuring Belly Butter The Frenchie
