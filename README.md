@@ -1,6 +1,6 @@
 # theme-belly
 
-A Series of Google Chrome Themes Featuring Belly Butter The Frenchie.
+A Series of Google Chrome Themes Featuring @BellyButterTheFrenchie (_Follow us on Instagram_).
 
 Currently available:
 
