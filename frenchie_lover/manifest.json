@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "Frenchie Lover",
-  "description": "A Google Chrome Theme Featuring Belly Butter The Frenchie",
+  "description": "Colorful shapes of French Bulldog's head.",
   "theme": {
   	"images" : {
   		"theme_frame":	"images/frame_default.png",
