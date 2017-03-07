@@ -8,4 +8,8 @@ Currently available:
 
 * **Baby Frenchie**
 
+* **Cute Frenchie**
+
+* **Rosie Frenchie**
+
 Search them on [Chrome Web Store](https://chrome.google.com/webstore) and get them for **FREE**
