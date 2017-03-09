@@ -12,4 +12,6 @@ Currently available:
 
 * **Rosie Frenchie**
 
+* **Saint Patrick Frenchie**
+
 Search them on [Chrome Web Store](https://chrome.google.com/webstore) and get them for **FREE**
