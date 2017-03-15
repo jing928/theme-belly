@@ -1,0 +1,41 @@
+{
+ "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Baby & Frenchies",
+  "description": "Milky, Baby, Frenchies. Need I say more? Free for a limited time only!",   
+  "theme": {
+      "colors": {
+         "bookmark_text": [ 57, 62, 65 ],
+         "frame": [ 193, 224, 218 ],
+         "nt_header": [ 241, 251, 255 ],
+         "ntp_background": [ 252, 241, 219 ],
+         "ntp_link": [ 115, 151, 222 ],
+         "ntp_section": [ 57, 62, 65 ],
+         "ntp_section_link": [ 115, 151, 222 ],
+         "ntp_section_text": [ 57, 62, 65 ],
+         "ntp_text": [ 57, 62, 65 ],
+         "tab_background_text": [ 57, 62, 65 ],
+         "tab_text": [ 57, 62, 65 ],
+         "toolbar": [ 252, 241, 219 ]
+      },
+      "images": {
+         "theme_frame": "images/frame_default.png",
+         "theme_frame_inactive": "images/frame_default_inactive.png",
+	       "theme_frame_incognito": "images/theme_frame_incognito.png",
+	       "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png",
+	       "theme_toolbar": "images/theme_toolbar_default.png",
+	       "theme_tab_background": "images/theme_tab_background.png",
+	       "theme_tab_background_incognito":"images/theme_tab_background_incognito.png",
+	       "theme_ntp_background": "images/ntp_background.png"
+      },
+      "properties": {
+         "ntp_background_alignment":"bottom",
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "background_tab": [ -1, 0.5, 0.75 ],
+         "buttons": [ 0, 0, 0 ]
+      }
+   }
+}
