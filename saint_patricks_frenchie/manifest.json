@@ -1,6 +1,6 @@
 {
  "manifest_version": 2,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "Saint Patrick Frenchie",
   "description": "Cute, simple shapes of French Bulldog's head! Happy Saint Patrick's Day!",   
   "theme": {
@@ -13,7 +13,7 @@
          "ntp_section": [ 35, 35, 35 ],
          "ntp_section_link": [ 6, 55, 116 ],
          "ntp_section_text": [ 0, 5, 9 ],
-         "ntp_text": [ 255, 255, 255 ],
+         "ntp_text": [ 0, 5, 9 ],
          "tab_background_text": [ 0, 5, 9 ],
          "tab_text": [ 0, 5, 9 ],
          "toolbar": [ 251, 241, 220 ]
