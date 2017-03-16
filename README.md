@@ -14,4 +14,6 @@ Currently available:
 
 * **Saint Patrick Frenchie**
 
+* **Baby and Frenchies**
+
 Search them on [Chrome Web Store](https://chrome.google.com/webstore) and get them for **FREE**
